@@ -1,3 +1,5 @@
-# hello-world
+# Hello World!
 
-This project is not required, but I'll deliver anyway as it looks better on my nanodegree path :-)
+This is just a tiny little project to show that I'm able to write html and css files.
+
+The result of the entire project is to show "Hello World" in red text on a web page.
